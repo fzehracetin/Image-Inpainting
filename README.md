@@ -16,4 +16,4 @@ For this research, Nvidia did not share all the code files for inpainting. So I 
 
 This method is easy to work, because there is no training process. You have to use Python2. In Windows I encountered so many erors about PyMaxflow in the installation process, it was related to Visual C++. So, I used Ubuntu, it was much smooth. I edited code little bit, to work with all images under a directory not just a single image. Code file is under [this directory.](https://github.com/fzehracetin/Image-Inpainting/tree/master/Statistics%20of%20Patch%20Offsets) You must make changes in config.py. Code is very interwined with this file. So I didn't break this connection between them. 
 
-If you have any question about this methods don't hesitate to ask me. Good luck! :stars:
+If you have any question about implementation of this methods don't hesitate to ask me. Good luck! :stars:
